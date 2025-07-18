@@ -1,3 +1,6 @@
-# 👋 Hi, I'm Geferson!
+# 👋 Olá, sou o Geferson!
+Seja muito bem-vindo(a) ao meu perfil.
 
-Welcome to my profile! I'm passionate about technology and always looking for new challenges and opportunities to learn and grow. Here you'll find some of my projects, my code, and, of course, a lot of passion for innovation! 🚀
+Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções que realmente fazem a diferença. Atuo com foco em Node.js e React, criando aplicações robustas, escaláveis e eficientes — sempre com atenção à qualidade do código, boas práticas e experiência do usuário.
+
+Aqui você encontrará alguns dos meus projetos, trechos do meu código e, principalmente, muita dedicação e entusiasmo por aprender, evoluir e entregar resultados com excelência. 🚀
